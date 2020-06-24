@@ -1,11 +1,11 @@
-def square_array(numbers)
+def square_array(number)
    numbersdo = []
   
-  numbersdo.each { |num|
-    new_numbers << (num ** 2)
+  numbersdos.each { |number|
+    numbersdos << (num ** 2)
 }
 
-  return new_numbers
+  return numbersdos
   end 
 
 
