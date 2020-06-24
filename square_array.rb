@@ -8,4 +8,3 @@ def square_array(number)
   return numbersdos
   end 
 
-
