@@ -2,7 +2,7 @@ def square_array(number)
    numbersdos = []
   
   numbersdos.each { |number|
-    numbersdos << (num ** 2)
+    numbersdos << (number ** 2)
 }
 
   return numbersdos
