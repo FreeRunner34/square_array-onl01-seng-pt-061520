@@ -1,5 +1,5 @@
 def square_array(number)
-   numbersdo = []
+   numbersdos = []
   
   numbersdos.each { |number|
     numbersdos << (num ** 2)
